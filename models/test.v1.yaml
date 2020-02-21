@@ -1,5 +1,0 @@
-title: test
-type: object
-properties:
-  id:
-    type: string
